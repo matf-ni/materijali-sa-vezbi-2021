@@ -31,7 +31,13 @@ Okruženje `Jupyter` dolazi kao sastavni deo platforme `Anaconda` i može se jed
 
 Za više informacija o okruženju `Jupyter` možete pogledati [zvaničnu stranicu](https://jupyter.org/) projekta. Osnovne funkcionalnosti okruženja `Jupyter` se mogu proširiti instaliranjem odgovarajućih paketa. Predlažemo da istražite paket [jupyter_contrib_nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html) koji nudi neke zanimljive funkcionalnosti poput korišćenja grafičkih komponenti, formatera koda, provere pravopisa i drugih.
 
-## Korsni linkovi: 
+# Konferencije
+
+Na godišenjm nivou zajednica koja se bavi naučnim izračunavanjem organizuje konferenciju [ScyPi conference](https://conference.scipy.org/) sa predavanjima i materijalima koji su javno dostupni. Predlažemo da istražite sajt konferencije i prateće `YouTube` kanale. Tutorijali i demo sesije su jako korisni i zanimljivi, neke primere smo pozajmili i za naš kurs. :)   
+
+## Korsne informacije: 
 U zajednici koja se bavi naučnim izračunavanjem, koriste se i alternativna radna okruženja:
 - [Spyder](https://github.com/spyder-ide/spyder)
 - [PyCharm](https://www.jetbrains.com/pycharm/) - može se koristiti besplatno uz Alas nalog
+
+Python zajednica organizuje konferencije globalnog i regionalnog karaktera pod zajedničkim imenom [PyCon](https://pycon.org/). Većina materijala je javno dostupna i predstavlja sjajan resurs za učenje i usavršavanje.
