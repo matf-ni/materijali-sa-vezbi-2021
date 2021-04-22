@@ -16,6 +16,9 @@ Zvanični sajt kursa: [http://ni.matf.bg.ac.rs/](http://ni.matf.bg.ac.rs/)
 | 2 | Srednjekvadratna aproksimacija |
 | 3 | Regularizacija i odudarajući podaci |
 | 4 | Furijeova transformacija - uvodni primeri za rad sa signalima, zvukom i slikama |
+| 5 | Furijeova transformacija - primene u radu sa slikama |
+| 6 | Furijeova transformacija - premene u radu sa signalima |
+
 
 Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 
@@ -25,6 +28,10 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 | 2 | [Srednjekvadratna aproksimacija](https://matf.webex.com/matf/ldr.php?RCID=6221d7dcb5e04503b43b68eab964ae30) |
 | 3 | [Regularizacija i odudarajući podaci](https://matf.webex.com/matf/ldr.php?RCID=e4a860c0c5fe48efaf93f992b77cff8c)|
 | 4 | [Furijeova transformacija - uvodni primeri za rad sa signalima, zvukom i slikama](https://matf.webex.com/matf/ldr.php?RCID=4dc8dd7fe2f447fe9f3fa57e546eff14)|
+| 5 | [Furijeova transformacija - primene u radu sa slikama](https://matf.webex.com/matf/ldr.php?RCID=3a231c920d994078af2f69147f3ec3c9)|
+| 6 | Furijeova transformacija - premene u radu sa signalima - TBA |
+
+
 
 # Tehnologije
 
