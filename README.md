@@ -18,6 +18,7 @@ Zvanični sajt kursa: [http://ni.matf.bg.ac.rs/](http://ni.matf.bg.ac.rs/)
 | 4 | Furijeova transformacija - uvodni primeri za rad sa signalima, zvukom i slikama |
 | 5 | Furijeova transformacija - primene u radu sa slikama |
 | 6 | Furijeova transformacija - premene u radu sa signalima |
+| 7 | Sopstvene vrednosti i sopstveni vektori - algoritmi izračunavanja, PCA i sopstvena lica |
 
 
 Za pristup sveskama koje koristimo na času pogledajte `live` granu.
@@ -30,6 +31,7 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 | 4 | [Furijeova transformacija - uvodni primeri za rad sa signalima, zvukom i slikama](https://matf.webex.com/matf/ldr.php?RCID=4dc8dd7fe2f447fe9f3fa57e546eff14)|
 | 5 | [Furijeova transformacija - primene u radu sa slikama](https://matf.webex.com/matf/ldr.php?RCID=3a231c920d994078af2f69147f3ec3c9)|
 | 6 | Furijeova transformacija - premene u radu sa signalima - TBA |
+| 7 | [Sopstvene vrednosti i sopstveni vektori - algoritmi izračunavanja, PCA i sopstvena lica](https://matf.webex.com/matf/ldr.php?RCID=8a2a872070844f0bb779a0bc156aab92)
 
 
 
