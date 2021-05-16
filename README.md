@@ -21,6 +21,8 @@ Zvanični sajt kursa: [http://ni.matf.bg.ac.rs/](http://ni.matf.bg.ac.rs/)
 | 7 | Sopstvene vrednosti i sopstveni vektori - algoritmi izračunavanja, PCA i sopstvena lica |
 | 8 | Pagerank algoritam - implementacija, podrška paketa `networkx` i primer sumarizacije dokumenata |
 | 9 | Retke matrice - formati zapisa, bibliotečka podrška i primer primene u sistemima pretraživanja informacija |
+| 10 | Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti |
+
 
 Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 
@@ -35,6 +37,7 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 | 7 | [Sopstvene vrednosti i sopstveni vektori - algoritmi izračunavanja, PCA i sopstvena lica](https://matf.webex.com/matf/ldr.php?RCID=8a2a872070844f0bb779a0bc156aab92) |
 | 8 | [Pagerank algoritam - implementacija, podrška paketa `networkx` i primer sumarizacije dokumenata](https://matf.webex.com/matf/ldr.php?RCID=fcaaec270b6e42329850ba38d798fe00) |
 | 9 | [Retke matrice - formati zapisa, bibliotečka podrška i primer primene u sistemima pretraživanja informacija](https://matf.webex.com/matf/ldr.php?RCID=8d6aa68dd2254dd2a1429362437de841) |
+| 10 | [Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti](https://matf.webex.com/matf/ldr.php?RCID=02aa5e1dcbb7405ba981b9452af0d694)|
 
 # Tehnologije
 
