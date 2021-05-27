@@ -23,6 +23,7 @@ Zvanični sajt kursa: [http://ni.matf.bg.ac.rs/](http://ni.matf.bg.ac.rs/)
 | 9 | Retke matrice - formati zapisa, bibliotečka podrška i primer primene u sistemima pretraživanja informacija |
 | 10 | Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti |
 | 11 | Optimizacija - bibliotečka podrška u problemima optimizacije sa i bez ograničenja; lokalna pretraga |
+| 12 | Modelovanje optimizacionih problema korišćenjem Pyomo biblioteke |
 
 
 Za pristup sveskama koje koristimo na času pogledajte `live` granu.
@@ -40,7 +41,7 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 | 9 | [Retke matrice - formati zapisa, bibliotečka podrška i primer primene u sistemima pretraživanja informacija](https://matf.webex.com/matf/ldr.php?RCID=8d6aa68dd2254dd2a1429362437de841) |
 | 10 | [Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti](https://matf.webex.com/matf/ldr.php?RCID=02aa5e1dcbb7405ba981b9452af0d694)|
 | 11 | [Optimizacija - bibliotečka podrška problemima optimizacije sa i bez ograničenja; lokalna pretraga](https://matf.webex.com/matf/ldr.php?RCID=0ce39c09ace94fbcb4d43aad5dab1220) |
-
+| 12 | [Modelovanje optimizacionih problema korišćenjem Pyomo biblioteke](https://matf.webex.com/matf/ldr.php?RCID=1d51c5a20b4142e1b7e019f5f67035c2)|
 
 # Tehnologije
 
